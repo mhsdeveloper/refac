@@ -1,0 +1,30 @@
+{
+	"Faulty Pistol": {
+		"id": "3096",
+		"description": "This pocket flint-lock pistol, made of wood and brass, belonged to Paul Revere. The shape of the handle is known",
+		"published": true,
+		"image" : "https://www.masshist.org/database/images19/6078_pistol_work_lg.jpg"
+	},
+
+	"Detritus": {
+		"id": "3247",
+		"description": "This brass hot dog was presented to vice-presidential candidate Henry Cabot Lodge, Jr., by the National Hot Dog Council on 17 October 1960. The presentation letter read, in part, A million miles of hot dogs will be consumed in the United States this year and we hope that every one of these hot dog lovers casts a vote for you and Dick Nixon.",
+		"published": true,
+		"image": "https://www.masshist.org/database/images21/6240_hotdog_work_lg.jpg"
+	},
+
+	"Dusty Bottles": {
+		"description" : "This small glass bottle, with a brass ring, contains tea leaves gathered on the shore of Dorchester Neck, across the harbor from Boston, the morning after the Boston Tea Party. This is one of five relics of the Boston Tea Party (including tea caddies and a china punch bowl) in the collections of the MHS.",
+		"id": "231",
+		"published": true,
+		"image": "https://www.masshist.org/database/images/0106_lg.jpg"
+	},
+
+	"Old Shoes": {
+		"image": "https://www.masshist.org/database/images24/6262_buckles_lg.jpg",
+		"description": "Rebecca Tailer wore these green shoes at her marriage to Rev. Mather Byles on 11 June 1747. The Tailers were a well-connected family from Dorchester, Mass. The buckles are made of brass.",
+		"published": false,
+		"id": "3293"
+	}
+
+}
